@@ -1,6 +1,5 @@
 pytube
 moviepy
-zipfile
 smtplib
 ssl
 email.mime.base
