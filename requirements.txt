@@ -1,6 +1,4 @@
-re
 pytube
-os
 moviepy.editor
 zipfile
 smtplib
